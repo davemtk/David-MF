@@ -17,4 +17,4 @@ Bienvenue sur mon espace GitHub
 
 ## 🔗 Me retrouver  
 - [LinkedIn](https://www.linkedin.com)
-- [Email](davemutaku@gmail.com)  
+- [Email](mailto:davemutaku@gmail.com)  
